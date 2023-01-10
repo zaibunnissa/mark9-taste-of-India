@@ -1,2 +1,2 @@
-# mark9-taste-of-India
-Created with CodeSandbox
+#Taste-of-India.
+An app built with React and Created with CodeSandbox
